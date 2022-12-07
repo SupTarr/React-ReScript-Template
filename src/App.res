@@ -30,7 +30,7 @@ let make = () => {
       </p>
     </div>
     <p className="read-the-docs">
-      {React.string("Click on the Vite and React logos to learn more")}
+      {React.string("Click on the Vite,  React or ReScript logos to learn more")}
     </p>
   </div>
 }
