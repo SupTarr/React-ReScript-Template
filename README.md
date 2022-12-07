@@ -24,12 +24,12 @@ npm install npm@latest -g
 
 ```sh
 # npm 6.x
-npm create vite@latest ReactInfiniteScroll --template react
+npm create vite@latest my-app --template react
 
 # npm 7+, extra double-dash is needed:
-npm create vite@latest ReactInfiniteScroll -- --template react
+npm create vite@latest my-app -- --template react
 
-cd ReactInfiniteScroll
+cd my-app
 npm install
 ```
 
