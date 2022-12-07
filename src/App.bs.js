@@ -44,7 +44,7 @@ function App(Props) {
                         })
                     }, "Count is ", match[0]), React.createElement("p", undefined, "Edit ", React.createElement("code", undefined, "src/App.res"), " and save to test HMR")), React.createElement("p", {
                   className: "read-the-docs"
-                }, "Click on the Vite and React logos to learn more"));
+                }, "Click on the Vite, React, or ReScript logos to learn more"));
 }
 
 var make = App;
