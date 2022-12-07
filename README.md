@@ -1,6 +1,6 @@
-# React Infinite Scroll
+# React ReScript Template
 
-Welcome to my introduction to the **React Infinite Scroll** that combined with **ReScript** to make a *React component*
+Template of the **React** and **ReScript**
 
 ---
 
