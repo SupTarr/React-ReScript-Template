@@ -1,6 +1,6 @@
-# ReactInfiniteScroll
+# React Infinite Scroll
 
-Welcome to my introduction to the React Infinite Scroll that combined with ReScript to make a React component
+Welcome to my introduction to the **React Infinite Scroll** that combined with **ReScript** to make a *React component*
 
 ---
 
@@ -20,12 +20,17 @@ npm install npm@latest -g
 
 ### Installation
 
-- Create React App:
+- Create React App with Vite:
 
 ```sh
-npx create-react-app my-app
-cd my-app
-pm start
+# npm 6.x
+npm create vite@latest ReactInfiniteScroll --template react
+
+# npm 7+, extra double-dash is needed:
+npm create vite@latest ReactInfiniteScroll -- --template react
+
+cd ReactInfiniteScroll
+npm install
 ```
 
 - Install ReScript locally:
