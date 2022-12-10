@@ -1,6 +1,6 @@
 # React ReScript Template
 
-Template of the **React** and **ReScript**
+Template of the **React** and **ReScript** that build with **Vite**
 
 ---
 
